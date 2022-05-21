@@ -1,0 +1,34 @@
+Introduction to Tensorflow 
+
+Tensorflow is an open source library for Numerical Computation and Large-scale
+Machine Learning.
+
+Companies that use Tensorflow
+
+- Google
+- Intel
+- Twitter 
+- ebey
+- LinkedIn
+- PayPal
+- Uber
+- MI and many more.
+
+Features of Tensorfow
+
+- Adopted Keras for HIgh-level APIs
+- Eager execution with Graphs
+
+What is Tensors ?
+
+- Tensors are the standard way of representing data in deep learning
+
+Flow ? ( Steps of any machine learning and data science process )
+ 
+1. Collect a dataset
+2. Build your model
+3. Train the network
+4. Evaluate
+5. Predict
+
+- Tensorflow is a open source library and Largest Community for learners and collaborators!

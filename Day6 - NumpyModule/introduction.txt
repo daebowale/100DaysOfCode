@@ -1,0 +1,22 @@
+Numpy : Python module for data handling or processing 
+
+Jupyter Notebook : It is a open source web application that allows you to 
+create and share the documents that contains the code, equations, visualizations and
+narrative text.
+- It has support for over 40 programming languages including python, R, Julia, Scala etc
+- It can be shared with others using email, dropbox, GitHub and the jupyter notebook 
+viewer
+- Your code can produce rich, interactive output : HTML, Images, Videos, LaTex and cutom
+MIME Types.
+- Data Analysis is easy with Jupyter Ntebook.
+- To run this web application, open your powershell on any file and run this command
+
+"jupyter notebook"
+
+WHY WE USE NUMPY ?
+
+- NumPy provides efficient storage
+- It also provides better ways of handling data for processing
+- It is fast
+- It is easy to learn
+- NumPy uses relatively less memory to store data
